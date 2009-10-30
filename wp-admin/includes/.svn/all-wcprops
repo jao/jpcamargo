@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/12114/trunk/wp-admin/includes
+END
+class-ftp.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/8645/trunk/wp-admin/includes/class-ftp.php
+END
+plugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/12048/trunk/wp-admin/includes/plugin.php
+END
+plugin-install.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/11585/trunk/wp-admin/includes/plugin-install.php
+END
+class-pclzip.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/12042/trunk/wp-admin/includes/class-pclzip.php
+END
+bookmark.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/11383/trunk/wp-admin/includes/bookmark.php
+END
+class-ftp-pure.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/8645/trunk/wp-admin/includes/class-ftp-pure.php
+END
+class-ftp-sockets.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/8645/trunk/wp-admin/includes/class-ftp-sockets.php
+END
+manifest.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/11589/trunk/wp-admin/includes/manifest.php
+END
+taxonomy.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/11204/trunk/wp-admin/includes/taxonomy.php
+END
+file.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/11963/trunk/wp-admin/includes/file.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/12066/trunk/wp-admin/includes/update.php
+END
+class-wp-filesystem-base.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/11831/trunk/wp-admin/includes/class-wp-filesystem-base.php
+END
+post.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/12110/trunk/wp-admin/includes/post.php
+END
+dashboard.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/12026/trunk/wp-admin/includes/dashboard.php
+END
+upgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/11958/trunk/wp-admin/includes/upgrade.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/8618/trunk/wp-admin/includes/admin.php
+END
+misc.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/11671/trunk/wp-admin/includes/misc.php
+END
+class-wp-filesystem-ftpsockets.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/12104/trunk/wp-admin/includes/class-wp-filesystem-ftpsockets.php
+END
+class-wp-upgrader.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/12107/trunk/wp-admin/includes/class-wp-upgrader.php
+END
+schema.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/12061/trunk/wp-admin/includes/schema.php
+END
+continents-cities.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/11333/trunk/wp-admin/includes/continents-cities.php
+END
+comment.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/11721/trunk/wp-admin/includes/comment.php
+END
+theme.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/12063/trunk/wp-admin/includes/theme.php
+END
+meta-boxes.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/12114/trunk/wp-admin/includes/meta-boxes.php
+END
+image-edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/11985/trunk/wp-admin/includes/image-edit.php
+END
+widgets.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/11577/trunk/wp-admin/includes/widgets.php
+END
+theme-install.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/11497/trunk/wp-admin/includes/theme-install.php
+END
+update-core.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/12060/trunk/wp-admin/includes/update-core.php
+END
+import.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/11971/trunk/wp-admin/includes/import.php
+END
+template.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/12022/trunk/wp-admin/includes/template.php
+END
+user.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/11950/trunk/wp-admin/includes/user.php
+END
+media.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/12110/trunk/wp-admin/includes/media.php
+END
+export.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/12109/trunk/wp-admin/includes/export.php
+END
+image.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/11911/trunk/wp-admin/includes/image.php
+END
+class-wp-filesystem-direct.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/11934/trunk/wp-admin/includes/class-wp-filesystem-direct.php
+END
+class-wp-filesystem-ftpext.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/11934/trunk/wp-admin/includes/class-wp-filesystem-ftpext.php
+END
+class-wp-filesystem-ssh2.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/11934/trunk/wp-admin/includes/class-wp-filesystem-ssh2.php
+END
